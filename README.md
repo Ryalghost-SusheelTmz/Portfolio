@@ -157,7 +157,7 @@ These foundations support the day-to-day discipline required in an L1 SOC: **tec
 
 **Education**
 - **Master of Information Technology (Cybersecurity)** — Kaplan Business School *(in progress)*
-- **Bachelor of Information Technology** — Kent Institute of Sydney *(2024)*
+- **Bachelor of Information Technology** — Kent Institute of Sydney *(2022-2024)*
 
 **Certifications & training listed on my resume**
 
