@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="260" viewBox="0 0 1400 260" role="img" aria-labelledby="title desc">
+  <title id="title">SOC Level 1 alert triage workflow</title>
+  <desc id="desc">Five stages: Monitor, Validate, Investigate, Escalate, Document.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1b2b"/><stop offset="1" stop-color="#0e2a39"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#29dbbb"/><stop offset="1" stop-color="#559fff"/></linearGradient>
+    <pattern id="pattern" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#468d9d" stroke-opacity=".075"/></pattern>
+  </defs>
+  <rect width="1400" height="260" rx="16" fill="url(#surface)"/>
+  <rect width="1400" height="260" rx="16" fill="url(#pattern)"/>
+  <text x="40" y="39" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#72e3d4">LEVEL 1 / FIRST-LINE INCIDENT HANDLING</text>
+  <path d="M40 52H1360" stroke="#2c6775" stroke-width="1"/>
+  <path d="M156 131H1260" stroke="url(#line)" stroke-width="4" stroke-dasharray="9 7" opacity=".4"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <g transform="translate(42 80)"><rect width="254" height="148" rx="15" fill="#122b3b" stroke="#287a82" stroke-width="1.5"/><circle cx="26" cy="31" r="12" fill="#2de0bd"/><text x="26" y="36" text-anchor="middle" font-size="12" font-weight="800" fill="#07202a">1</text><text x="48" y="37" font-size="20" font-weight="700" fill="#ecf9ff">MONITOR</text><text x="18" y="85" font-size="15" fill="#b0c9d6">Review SIEM &amp; IDS alerts</text><text x="18" y="109" font-size="14" fill="#76ddd1">Splunk · Wazuh</text></g>
+    <g transform="translate(308 80)"><rect width="254" height="148" rx="15" fill="#122b3b" stroke="#287a82" stroke-width="1.5"/><circle cx="26" cy="31" r="12" fill="#2de0bd"/><text x="26" y="36" text-anchor="middle" font-size="12" font-weight="800" fill="#07202a">2</text><text x="48" y="37" font-size="20" font-weight="700" fill="#ecf9ff">VALIDATE</text><text x="18" y="85" font-size="15" fill="#b0c9d6">Confirm signal &amp; context</text><text x="18" y="109" font-size="14" fill="#76ddd1">Windows logs · Sysmon</text></g>
+    <g transform="translate(574 80)"><rect width="254" height="148" rx="15" fill="#122b3b" stroke="#287a82" stroke-width="1.5"/><circle cx="26" cy="31" r="12" fill="#2de0bd"/><text x="26" y="36" text-anchor="middle" font-size="12" font-weight="800" fill="#07202a">3</text><text x="48" y="37" font-size="20" font-weight="700" fill="#ecf9ff">INVESTIGATE</text><text x="18" y="85" font-size="15" fill="#b0c9d6">Scope host, user &amp; IOC</text><text x="18" y="109" font-size="14" fill="#76ddd1">VirusTotal · ATT&amp;CK</text></g>
+    <g transform="translate(840 80)"><rect width="254" height="148" rx="15" fill="#122b3b" stroke="#287a82" stroke-width="1.5"/><circle cx="26" cy="31" r="12" fill="#2de0bd"/><text x="26" y="36" text-anchor="middle" font-size="12" font-weight="800" fill="#07202a">4</text><text x="48" y="37" font-size="20" font-weight="700" fill="#ecf9ff">ESCALATE</text><text x="18" y="85" font-size="15" fill="#b0c9d6">Prioritize &amp; hand off</text><text x="18" y="109" font-size="14" fill="#76ddd1">Evidence · Impact · SLA</text></g>
+    <g transform="translate(1106 80)"><rect width="254" height="148" rx="15" fill="#122b3b" stroke="#287a82" stroke-width="1.5"/><circle cx="26" cy="31" r="12" fill="#2de0bd"/><text x="26" y="36" text-anchor="middle" font-size="12" font-weight="800" fill="#07202a">5</text><text x="48" y="37" font-size="20" font-weight="700" fill="#ecf9ff">DOCUMENT</text><text x="18" y="85" font-size="15" fill="#b0c9d6">Log findings &amp; actions</text><text x="18" y="109" font-size="14" fill="#76ddd1">Tickets · Clear handover</text></g>
+  </g>
+</svg>
