@@ -1,4 +1,4 @@
-# Ryalghost-SussheelTmz
+# Ryalghost-SusheelTmz
 <!--
   Sushil Tamang | GitHub Profile README
   Designed for SOC Analyst (Level 1) applications.
