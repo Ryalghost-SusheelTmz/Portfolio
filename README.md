@@ -97,7 +97,7 @@ I enjoy turning raw logs into a clear story: **what happened, which systems migh
 ![PowerShell](https://img.shields.io/badge/PowerShell-226ab4?style=flat-square&logo=powershell&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2071ba?style=flat-square&logo=docker&logoColor=white)
 
-## 💼 Relevant IT Support Experience
+## 💼 Relevant IT Industry Experience
 
 **IT Support Specialist (Part-time) | Extratech Pty Ltd**  
 *October 2023 – January 2025 · Hurstville, NSW*
