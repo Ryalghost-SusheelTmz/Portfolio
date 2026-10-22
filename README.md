@@ -47,18 +47,18 @@ I enjoy turning raw logs into a clear story: **what happened, which systems migh
 
 ## 🧪 Featured SOC & Cybersecurity Labs
 
-> My cybersecurity portfolio focuses on **SOC Level 1 fundamentals**: monitoring, log analysis, alert validation, investigation, clear escalation and documentation. Each project includes a dedicated walkthrough, architecture diagram and sample defensive-security material.
+> My cybersecurity portfolio focuses on **SOC Level 1 fundamentals**: monitoring, log analysis, alert validation, investigation, clear escalation and documentation. The Wazuh lab is published with its walkthrough, conceptual diagrams and safe sample code. Other standalone project repositories are still being prepared.
 
 | Project | Stack | Documentation |
 |:--|:--|:--|
-| **01** 🛡️ Wazuh Active Response SOC Lab | Wazuh · pfSense · VirusTotal · FIM | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/wazuh-active-response-soc-lab) |
+| **01** 🛡️ Wazuh Active Response SOC Lab **(Published)** | Wazuh · pfSense · VirusTotal · FIM | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/wazuh-active-response-soc-lab) |
 | **02** 📊 Splunk & Suricata Threat Detection | Splunk · Suricata IDS · SPL | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/splunk-suricata-threat-detection-lab) |
 | **03** 🪟 Active Directory SIEM Detection | Windows Events · Sysmon · Splunk | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/active-directory-siem-detection-lab) |
 | **04** 🤖 AI-Assisted Home SOC | Wazuh · Grafana · NetAlertX · AIRIA | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/ai-assisted-home-soc) |
 | **05** 🌐 SafeLine WAF & DVWA Security Lab | SafeLine · Apache · DVWA · TLS | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/safeline-waf-dvwa-security-lab) |
 | **06** 🔎 Web Vulnerability Assessment | OWASP ZAP · Burp Suite · Nessus · Power BI | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/web-vulnerability-assessment-capstone) |
 
-<sub>**Publication status:** The six individual repository URLs above are reserved for project documentation currently being prepared for publication. Links will work once the corresponding repositories are created. Architecture graphics are illustrative; real lab screenshots and verified outputs will be added as available.</sub>
+<sub>**Publication status:** The Wazuh lab repository is live; the remaining five links will work after their individual repositories are published. Architecture graphics are illustrative; real lab screenshots and verified outputs will be added as available.</sub>
 
 ---
 
