@@ -8,7 +8,7 @@
 -->
 
 <div align="center">
-  <img src="assets/soc-profile-banner.svg" alt="Sushil Tamang — Aspiring SOC Analyst (Level 1), Perth, Western Australia" width="100%" />
+  <img src="./soc-profile-banner.svg" alt="Sushil Tamang — Aspiring SOC Analyst (Level 1), Perth, Western Australia" width="100%" />
 
   <br />
 
@@ -40,7 +40,7 @@ I enjoy turning raw logs into a clear story: **what happened, which systems migh
 ## 🔍 How I Approach Level 1 SOC Triage
 
 <div align="center">
-  <img src="assets/soc-l1-triage-workflow.svg" alt="SOC Level 1 workflow: monitor, validate, investigate, escalate, document" width="100%" />
+  <img src="./soc-l1-triage-workflow.svg" alt="SOC Level 1 workflow: monitor, validate, investigate, escalate, document" width="100%" />
 </div>
 
 | L1 responsibility | Practical experience |
