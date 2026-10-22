@@ -1,14 +1,8 @@
-# Ryalghost-SusheelTmz
-<!--
-  Sushil Tamang | GitHub Profile README
-  Designed for SOC Analyst (Level 1) applications.
-  To display on your GitHub profile, add this README.md and the assets/ folder
-  to a PUBLIC repository named exactly the same as your GitHub username.
-  Please add links to your real project repositories after publishing them.
--->
+# Sushil Tamang · SOC Analyst (L1) Portfolio
+<!-- Portfolio README: defensive-security home labs + professional IT support, not production SOC employment. -->
 
 <div align="center">
-  <img src="./soc-profile-banner.svg" alt="Sushil Tamang — Aspiring SOC Analyst (Level 1), Perth, Western Australia" width="100%" />
+  <img src="./assets/soc-profile-banner.svg" alt="Sushil Tamang — Aspiring SOC Analyst (Level 1), Perth, Western Australia" width="100%" />
 
   <br />
 
@@ -40,7 +34,7 @@ I enjoy turning raw logs into a clear story: **what happened, which systems migh
 ## 🔍 How I Approach Level 1 SOC Triage
 
 <div align="center">
-  <img src="./soc-l1-triage-workflow.svg" alt="SOC Level 1 workflow: monitor, validate, investigate, escalate, document" width="100%" />
+  <img src="./assets/soc-l1-triage-workflow.svg" alt="SOC Level 1 workflow: monitor, validate, investigate, escalate, document" width="100%" />
 </div>
 
 | L1 responsibility | Practical experience |
@@ -53,59 +47,20 @@ I enjoy turning raw logs into a clear story: **what happened, which systems migh
 
 ## 🧪 Featured SOC & Cybersecurity Labs
 
-### 01 · 🛡️ Automated Threat Detection & Active Response SOC Lab
+> My cybersecurity portfolio focuses on **SOC Level 1 fundamentals**: monitoring, log analysis, alert validation, investigation, clear escalation and documentation. Each project includes a dedicated walkthrough, architecture diagram and sample defensive-security material.
 
-`Wazuh` · `pfSense` · `VirusTotal` · `Windows/Linux` · `VMware` · `MITRE ATT&CK`
+| Project | Stack | Documentation |
+|:--|:--|:--|
+| **01** 🛡️ Wazuh Active Response SOC Lab | Wazuh · pfSense · VirusTotal · FIM | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/wazuh-active-response-soc-lab) |
+| **02** 📊 Splunk & Suricata Threat Detection | Splunk · Suricata IDS · SPL | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/splunk-suricata-threat-detection-lab) |
+| **03** 🪟 Active Directory SIEM Detection | Windows Events · Sysmon · Splunk | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/active-directory-siem-detection-lab) |
+| **04** 🤖 AI-Assisted Home SOC | Wazuh · Grafana · NetAlertX · AIRIA | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/ai-assisted-home-soc) |
+| **05** 🌐 SafeLine WAF & DVWA Security Lab | SafeLine · Apache · DVWA · TLS | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/safeline-waf-dvwa-security-lab) |
+| **06** 🔎 Web Vulnerability Assessment | OWASP ZAP · Burp Suite · Nessus · Power BI | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/web-vulnerability-assessment-capstone) |
 
-- Built a **simulated financial-enterprise SOC lab** with segmented networks, monitored endpoints, and centralized security events.
-- Integrated **VirusTotal**, configured **File Integrity Monitoring (FIM)**, and mapped events to MITRE ATT&CK techniques.
-- Developed a **Wazuh Active Response** script for malicious-file removal, achieving a response time of **under two seconds in a controlled lab test**.
-- Ran CIS security configuration assessments and vulnerability checks to identify hardening gaps.
+<sub>**Publication status:** The six individual repository URLs above are reserved for project documentation currently being prepared for publication. Links will work once the corresponding repositories are created. Architecture graphics are illustrative; real lab screenshots and verified outputs will be added as available.</sub>
 
-**L1 takeaway:** Understand the signal, verify the indicator, check the affected asset, and document why an alert needs attention.
-
-### 02 · 📊 Splunk SIEM & Network Threat Detection Home Lab
-
-`Splunk Enterprise` · `Suricata IDS` · `Universal Forwarder` · `Kali Linux` · `Hydra`
-
-- Centralized Windows and Linux logs using **Splunk Universal Forwarders**.
-- Sent Suricata network intrusion alerts to Splunk for analysis and visualization.
-- Simulated brute-force and exploitation activity in an isolated lab to validate detection visibility.
-- Built dashboards and searches to investigate suspicious endpoint and network behavior.
-
-**L1 takeaway:** Correlate multiple log sources before deciding whether an alert is a true positive or requires further analysis.
-
-### 03 · 🪟 Active Directory Threat Detection & SIEM Lab
-
-`Active Directory` · `Windows Event Logs` · `Sysmon` · `Splunk` · `Atomic Red Team`
-
-- Configured a Windows domain lab to study identity activity and endpoint security telemetry.
-- Ingested Windows event data into Splunk for basic detection and investigation exercises.
-- Generated test telemetry with **Atomic Red Team** and Kali Linux.
-- Documented findings, evidence, and escalation context during simulated investigations.
-
-**L1 takeaway:** Build confidence identifying suspicious authentication and endpoint behavior from Windows logs.
-
-### 04 · 🤖 Home SOC with AI-Assisted Alert Summarization
-
-`Wazuh` · `Grafana` · `NetAlertX` · `Docker` · `AIRIA AI` · `ZimaCube 2`
-
-- Built a home SOC environment integrating endpoint security events and network discovery data.
-- Created a **Grafana dashboard** to bring monitoring and security indicators into one view.
-- Integrated an AI assistant to summarize alerts into analyst-readable context.
-
-**L1 takeaway:** Use AI as a supporting tool for summarization, while **human verification and evidence** remain central to triage.
-
-<details>
-<summary><strong>➕ More security projects</strong></summary>
-
-**Web Application Security & WAF Lab** — Deployed SafeLine WAF as a reverse proxy, configured HTTPS/TLS, and analysed traffic during authorized DVWA tests using VMware, Ubuntu, Apache and Kali Linux.
-
-**Web Platform Vulnerability Assessment (Capstone)** — Assessed a deliberately vulnerable web application using OWASP ZAP, Nessus, Wireshark and Burp Suite; summarized remediation priorities with Power BI.
-
-</details>
-
-<!-- Add links to your OWN published lab repositories above, once available. -->
+---
 
 ## 🚨 Example: How I'd Triage a Suspicious Sign-In Alert
 
@@ -186,10 +141,5 @@ I'm interested in **SOC Analyst (Level 1)** and **Junior Cybersecurity Analyst**
   <sub>Built with curiosity, practical labs, and a commitment to clear security investigation.</sub>
 </div>
 
-<!--
-OPTIONAL GITHUB STATS — enable after replacing YOUR_GITHUB_USERNAME.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="My GitHub stats" />
-</div>
--->
+<!-- Optional GitHub stats can be added after the individual lab repositories are published.
+https://github-readme-stats.vercel.app/api?username=Ryalghost-SusheelTmz&show_icons=true&theme=tokyonight -->
