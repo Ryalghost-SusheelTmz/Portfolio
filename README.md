@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/CAREER_GOAL-SOC_ANALYST_%7C_LEVEL_1-27c2b5?style=for-the-badge&amp;labelColor=102334" alt="Career goal: SOC Analyst Level 1" />
   <img src="https://img.shields.io/badge/FOCUS-SIEM_%26_ALERT_TRIAGE-418cf4?style=for-the-badge&amp;labelColor=102334" alt="Focus: SIEM and alert triage" />
   <img src="https://img.shields.io/badge/LOCATION-PERTH%2C_WA-64748b?style=for-the-badge&amp;labelColor=102334" alt="Location: Perth, Western Australia" />
+  
+ <br />
 
   <p><strong>IT Support background • Hands-on defensive security labs • Seeking an entry-level SOC opportunity</strong></p>
 
