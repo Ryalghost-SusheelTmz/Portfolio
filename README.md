@@ -129,7 +129,8 @@ These foundations support the day-to-day discipline required in an L1 SOC: **tec
 - More repeatable **alert-triage write-ups**, including log evidence, investigative steps, and escalation decisions.
 - Stronger **Windows/Sysmon** and network detection analysis through home lab exercises.
 - Practical familiarity with **SOC playbooks, prioritization, false-positive review, and defensive security operations**.
-
+- Working on nntegrated an AI agents to summarize security alerts, demonstrating an AI-assisted SOC workflow from telemetry to analyst-ready context
+- Building the AI-assisted SOC home lab 
 ## 📬 Let's Connect
 
 I'm interested in **SOC Analyst (Level 1)** and **Junior Cybersecurity Analyst** opportunities in **Perth, Western Australia**, including onsite and rostered environments.
